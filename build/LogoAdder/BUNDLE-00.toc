@@ -1,0 +1,3 @@
+([('LogoAdder',
+   '/Users/oliverheadley/LogoAdder/dist/LogoAdder',
+   'EXECUTABLE')],)
